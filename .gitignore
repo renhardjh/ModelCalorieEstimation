@@ -1,0 +1,7 @@
+*
+!.gitattributes
+!.gitignore
+!readme.md
+!.gitkeep
+!calories_estimation.ipynb
+!indonesian_food_dataset/
